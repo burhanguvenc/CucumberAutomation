@@ -1,6 +1,3 @@
-*.java linguist-language=Java
-source/*.tgz linguist-language=Java
-other/* linguist-documentation
 *.java linguist-detectable=true
 *.js linguist-detectable=false
 *.html linguist-detectable=false
