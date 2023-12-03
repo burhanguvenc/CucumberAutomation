@@ -2,7 +2,7 @@
 
 Feature: Application Login
 
-Background:
+Background: 
 Given setup the entries in database
 When launch the browser from config variables
 And hit the home page url of banking site
